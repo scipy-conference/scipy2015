@@ -89,7 +89,7 @@ session_start();
   </div>
   <div class="hp_cell">
     <h2>What's it like?</h2>
-    <p>Watch the video highlighting last years conference.</p>
+    <p>Watch the video highlighting the conference.</p>
     <a href="video_highlights.php"><img src="img/video_placeholder.png" width="100%" alt="SciPy 2013 video highlights" class="hp_image" /></a>
     <p style="font-size: 0.75em; color: #333; text-align: right; margin-right: 1em;"><em>Video courtesy of Enthought, Inc.</em></p>
   </div>
