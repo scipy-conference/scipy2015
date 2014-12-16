@@ -10,7 +10,7 @@
   </div>
 
   <div class="header_tagline">
-    Scientific Computing with Python <br /> Austin, Texas &#8226; July 6-11
+    Scientific Computing with Python <br /> Austin, Texas &#8226; July 6-12
   </div>
 </header>
 
