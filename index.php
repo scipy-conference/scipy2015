@@ -63,8 +63,8 @@ session_start();
           </div>
           <div class="free_cell">
             <div class="icon_date"><p>Jul</p>
-            <p class="icon_date_w">Thu</p>
-            <p class="icon_date_day">9</p></div>
+            <p class="icon_date_w">Fri</p>
+            <p class="icon_date_day">10</p></div>
           </div>
           <div class="free_cell" style="max-width: 50%; padding-top: 1em;">
             Main Conference Session
@@ -73,13 +73,13 @@ session_start();
         <div class="row" style="margin: 0;">
           <div class="free_cell">
             <div class="icon_date"><p>Jul</p>
-            <p class="icon_date_w">Fri</p>
-            <p class="icon_date_day">10</p></div>
+            <p class="icon_date_w">Sat</p>
+            <p class="icon_date_day">11</p></div>
           </div>
           <div class="free_cell">
             <div class="icon_date"><p>Jul</p>
-            <p class="icon_date_w">Sat</p>
-            <p class="icon_date_day">11</p></div>
+            <p class="icon_date_w">Sun</p>
+            <p class="icon_date_day">12</p></div>
           </div>
           <div class="free_cell" style="max-width: 20%; padding-top: 1em;">
             Sprints
